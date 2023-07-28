@@ -1,10 +1,13 @@
-###### MOBILIDADE | LINGUÍSTICA | COMPUTAÇÃO
+#### Olá!
 
- Eu me interesso pelos assuntos acima e construí as coisas abaixo.
+I'm **Ícaro Romano** :)
 
-##### AUTO TE GAST! — [repository](https://github.com/idromano/autotegast "repository")
-> Desenhar um tipo de infraestrutura cicloviária de acordo com o tipo de rua
+I used Python to **automate** part of my job and became up to 4 times faster.
 
-![image](https://user-images.githubusercontent.com/37457217/162640467-639d84d4-e2ae-43e1-a9ff-eed08629a3ba.png)
+I made bots that **crawl** and **scrape**, but I've also participated in public **data analysis** using Python by the Instituto HUB and UFRJ.
+Bachelor of Arts (**Linguistics**, Portuguese, French) from the same university, experienced in technical **translation** & book publishing.
 
-###### #mobilidade #computação
+Going further, I also study **Urban Mobility**:
+> [**What if all streets had a type of cycle path?**](https://github.com/idromano/autotegast "repository")
+
+I also write on the Youtube channel **Balaclava TV**.
