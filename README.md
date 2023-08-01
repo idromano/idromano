@@ -16,7 +16,7 @@ I'm a Python and Bubble developer from Rio, Brazil. 🇧🇷
 
 • I've also participated in events **data analysis** using public data and Python events by the Instituto HUB and UFRJ.
 
-• I have a Bachelor of Arts (**Linguistics**, Portuguese, French) from the same university, experienced in technical **translation** & book publishing, and write on the Youtube channel **Balaclava TV**.
+• I have a Bachelor of Arts (**Linguistics**, Portuguese, French) from the same university, experienced in technical **translation** & book publishing, and write on the Youtube channel [**Balaclava TV**](https://www.youtube.com/channel/UCCRn-wg2HBYnSPf62et1d9w).
 
 ### Where to find me:
 
